@@ -1,4 +1,4 @@
-# VendaFacil.DbUpDemo - Atualização do banco
+# DbUpDemo - Atualização do banco
 Projeto criado com intuito de validar o funcionamento de uma nova ferramenta para manipulação de scripts no banco de dados, o DbUp.
 
 ## O que foi validado
